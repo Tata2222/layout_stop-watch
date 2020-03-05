@@ -7,11 +7,6 @@ body {
   align-items: center;
   height: 100vh; }
 
-.size-input {
-  position: absolute;
-  top: 40px;
-  left: 40px; }
-
 .watch {
   position: relative;
   height: 900px;
